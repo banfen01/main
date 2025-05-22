@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;700&display=swap');
+
+html 
+{
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+}
+main {
+    position: center;
+
+    width: 900px;
+    height: 900px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.zag {
+    text-align: center;
+
+}
+.catalogverh 
+{
+    border: 5px solid black;
+    width: 155px;
+    margin: 10px;
+}
+.catalogsport
+{
+    border: 5px solid black;
+    width: 155px;
+    margin: 10px;
+}
+.catalogdom{
+    border: 5px solid black;
+    width: 155px;
+    margin: 10px;
+}
